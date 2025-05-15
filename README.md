@@ -1,4 +1,4 @@
-# 🧩 Maze Solver
+# 🧩 Maze Path Finding
 
 A C++ implementation of the classic **Rat in a Maze** problem using a backtracking algorithm.
 
