@@ -69,7 +69,7 @@ No path found
 
 ---
 
-## 💡 Real-Worl Application
+## 💡 Real-World Application
 
 This project mirrors challenges in:
 
